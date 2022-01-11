@@ -1,0 +1,35 @@
+Movement
+Up
+Left
+Down
+Right
+Jump
+Mount
+FlightCombat
+Skill 1
+1
+Skill 2
+2
+Skill 3
+3
+Skill 4
+4
+Basic Attack
+Space
+Transform
+T
+Switch target
+F
+Auto combat
+QGeneral
+Quests
+Tab
+Move camera
+Map
+M
+Chat
+C
+Backpack
+B
+Menu
+N
